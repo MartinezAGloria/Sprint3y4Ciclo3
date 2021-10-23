@@ -59,7 +59,7 @@ export default {
           descripcion:
             "2. Incentivar el hábito de la lectura mejorando permanentemente la plataforma para que la gente comparta sus libros",
           rol: "Scrum master",
-          imagen: "https://placeimg.com/192/192/any",
+          imagen: "https://placeimg.com/192/192/people",
         },
         {
           codigo: 3,
@@ -71,19 +71,19 @@ export default {
         },
         {
           codigo: 4,
-          nombre: "Integrante 4",
+          nombre: "Santiago Hernández",
           descripcion:
             "4. Leeré más para que mis hijos adquieran el hábito de la lectura.",
           rol: "Usuario",
-          imagen: "https://placeimg.com_192_192_nature",
+          imagen: "https://placeimg.com/192/192/nature",
         },
         {
           codigo: 5,
-          nombre: "Integrante 5",
+          nombre: "Martina Hernández",
           descripcion:
             "5. Comentaré sobre los libros que intercambie para motivar a los demás a que participen",
           rol: "Usuario",
-          imagen: "https://placeimg.com.com/192/192/any",
+          imagen: "https://placeimg.com/192/192/animals",
         },
       ],
     };
